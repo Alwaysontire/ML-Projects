@@ -1,15 +1,23 @@
-```markdown
 # ML-Projects
 
-## Structure
+Сборник моих учебных и прикладных проектов по машинному обучению и NLP.
 
-- `nlp/`
-  - `week_1/`
-  - `week_2/`
-  - `week_3/`
-- `yandex_practicum/`
-  - `HW.ipynb`
-  - `data/`
-- `kaggle/`
-  - `LLMClassification.ipynb`
-```
+## Projects
+
+### NLP
+Материалы и домашние задания по курсу NLP YSDA:
+- `week_1/` — базовые задачи и работа с эмбеддингами
+- `week_2/` — n-граммы
+- `week_3/` — n-граммы
+
+### Yandex Practicum
+Практические задания и ноутбуки из Яндекс Практикума:
+- `HW.ipynb` — основная работа
+- `data/` — входные данные для заданий
+
+### Kaggle
+Проект по соревнованию Kaggle:
+- `LLMClassification.ipynb` — решение задачи LLM Classification Finetuning
+
+### HW
+Домашние задания по курсу МО_1 ФКН ВШЭ:
